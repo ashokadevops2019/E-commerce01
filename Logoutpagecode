@@ -1,0 +1,11 @@
+#Write a program to check the number is postive,zero,Negative
+
+num=float(input("Enter the numbers:")
+if num>0:
+   print("postive numbers")
+elif num==0:
+   print("Zero")
+else:
+   print("Negative Numbers")
+
+
